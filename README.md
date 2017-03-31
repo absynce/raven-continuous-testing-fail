@@ -156,3 +156,5 @@ I've tried configuring the Continuous Testing shadow-copy setting both ways:
 
 * Assemblies and symbol files
 * All files from the tests start folder
+
+I've tried allowing Voron to run in 32-bit mode and building in 64-bit.
