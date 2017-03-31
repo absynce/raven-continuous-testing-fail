@@ -149,3 +149,10 @@ TypeScript tools for Visual Studio
 
 VsVim   2.3.0.0
 VsVim is a Vim emulator for Visual Studio
+
+### Configuration
+
+I've tried configuring the Continuous Testing shadow-copy setting both ways:
+
+* Assemblies and symbol files
+* All files from the tests start folder
