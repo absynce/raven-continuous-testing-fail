@@ -77,3 +77,69 @@ Raven.Abstractions.Exceptions.IndexCompilationException: Can't figure out how to
    at Raven.Tests.Helpers.RavenTestBase.NewDocumentStore(Boolean runInMemory, String requestedStorage, ComposablePartCatalog catalog, String dataDir, Boolean enableAuthentication, String activeBundles, Nullable`1 port, AnonymousUserAccessMode anonymousUserAccessMode, Action`1 configureStore, String databaseName, IEnumerable`1 indexes, IEnumerable`1 transformers, IEnumerable`1 seedData, Boolean noStaleQueries, DocumentConvention conventions) in c:\Builds\RavenDB-Stable-3.0\Raven.Tests.Helpers\RavenTestBase.cs:line 259
    at raven_continuous_testing_fail.RavenDbTest.FailsWhenRunningInResharperContinuousTestingSession() in C:\dev\test\raven-continuous-testing-fail\RavenDbTest.cs:line 22
 ```
+
+### Environment
+
+**Microsoft Visual Studio Professional 2015**
+**Version 14.0.25431.01 Update 3**
+Microsoft .NET Framework
+**Version 4.6.01586**
+
+Installed Version: Professional
+
+LightSwitch for Visual Studio 2015   00322-40000-00000-AA867
+Microsoft LightSwitch for Visual Studio 2015
+
+Visual Basic 2015   00322-40000-00000-AA867
+Microsoft Visual Basic 2015
+
+Visual C# 2015   00322-40000-00000-AA867
+Microsoft Visual C# 2015
+
+Visual C++ 2015   00322-40000-00000-AA867
+Microsoft Visual C++ 2015
+
+Visual F# 2015   00322-40000-00000-AA867
+Microsoft Visual F# 2015
+
+Application Insights Tools for Visual Studio Package   7.18.00214.2
+Application Insights Tools for Visual Studio
+
+ASP.NET and Web Tools 2015.1 (Beta8)   14.1.11107.0
+ASP.NET and Web Tools 2015.1 (Beta8)
+
+ASP.NET Web Frameworks and Tools 2012.2   4.1.41102.0
+For additional information, visit http://go.microsoft.com/fwlink/?LinkID=309563
+
+ASP.NET Web Frameworks and Tools 2013   5.2.40314.0
+For additional information, visit http://www.asp.net/
+
+Common Azure Tools   1.8
+Provides common services for use by Azure Mobile Services and Microsoft Azure Tools.
+
+JavaScript Language Service   2.0
+JavaScript Language Service
+
+JavaScript Project System   2.0
+JavaScript Project System
+
+**JetBrains ReSharper Ultimate 2016.3.2    Build 107.0.20170126.120331**
+JetBrains ReSharper Ultimate package for Microsoft Visual Studio. For more information about ReSharper Ultimate, visit http://www.jetbrains.com/resharper. Copyright © 2017 JetBrains, Inc.
+
+Microsoft Azure Mobile Services Tools   1.4
+Microsoft Azure Mobile Services Tools
+
+NuGet Package Manager   3.4.4
+NuGet Package Manager in Visual Studio. For more information about NuGet, visit http://docs.nuget.org/.
+
+PreEmptive Analytics Visualizer   1.2
+Microsoft Visual Studio extension to visualize aggregated summaries from the PreEmptive Analytics product.
+
+SQL Server Data Tools   14.0.60519.0
+Microsoft SQL Server Data Tools
+
+TypeScript   1.8.36.0
+TypeScript tools for Visual Studio
+
+VsVim   2.3.0.0
+VsVim is a Vim emulator for Visual Studio
