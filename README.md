@@ -80,6 +80,12 @@ Raven.Abstractions.Exceptions.IndexCompilationException: Can't figure out how to
 
 ### Environment
 
+#### Operating System
+OS Name	Microsoft Windows 10 Pro
+Version	**10.0.14393 Build 14393**
+
+#### Visual Studio
+
 **Microsoft Visual Studio Professional 2015**
 **Version 14.0.25431.01 Update 3**
 Microsoft .NET Framework
