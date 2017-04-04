@@ -1,5 +1,9 @@
 # RavenDB tests fail in Resharper Continuous Testing Session
 
+## Resolution!
+
+[Update to](https://resharper-support.jetbrains.com/hc/en-us/community/posts/115000140970-RavenDB-test-fails-in-continuous-testing-session?page=1#community_comment_115000186944) [ReSharper 2017.1](https://www.jetbrains.com/resharper/download/).
+
 ### Success in normal test session
 ![Success in normal test session screenshot](/images/test-success-in-resharper-runner.png?raw=true)
 
@@ -9,7 +13,7 @@
 Full error message:
 
 ```
-Test method raven_continuous_testing_fail.RavenDbTest.FailsWhenRunningInResharperContinuousTestingSession threw exception: 
+Test method raven_continuous_testing_fail.RavenDbTest.FailsWhenRunningInResharperContinuousTestingSession threw exception:
 Raven.Abstractions.Exceptions.IndexCompilationException: Can't figure out how to find the relevant clause for this query
     at Raven.Client.Connection.Implementation.HttpJsonRequest.<CheckForErrorsAndReturnCachedResultIfAnyAsync>d__20.MoveNext() in c:\Builds\RavenDB-Stable-3.0\Raven.Client.Lightweight\Connection\Implementation\HttpJsonRequest.cs:line 438
 --- End of stack trace from previous location where exception was thrown ---
